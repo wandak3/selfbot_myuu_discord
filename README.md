@@ -20,7 +20,7 @@ All the main feature for this selfbot:
 
 ## How to access to the bot
 
-Bot is put behind a paywall of 10$ per month to limited the access of users to either not breaking the games and its economy and also for me to keep the server alive. The purpose of this bot is to help those who dedicated in the game but don't have much time to grind and hunting, training.
+Bot is put behind a paywall of 5$ per month to limited the access of users to either not breaking the games and its economy and also for me to keep the server alive. The purpose of this bot is to help those who dedicated in the game but don't have much time to grind and hunting, training.
 
 For more detail, please contact me on email: wandaandita2003@gmail.com.
 **Note**: You will need to provide your account TOKEN so please consider this before emailing me.
