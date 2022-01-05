@@ -31,7 +31,8 @@ For more detail, please contact me on email: wandaandita2003@gmail.com.
 The bot is put behind a paywall to prevent mass access from alot of player. This might lead to break the game ecosystem and also, I need income to keep the server up and running!
 
 **Price per account:** 5.5 USD/month
-**Mass accounts** (above 3 accounts at a time): 15$/month
+<br/>**Mass accounts** (above 3 accounts at a time): 15$/month
+<br/>**Host your own** (buy the source code): 50$. You will have to find yourself a hosting server, which might cost nearly the same as I collected each month.
 
 Fee is collected at 30th of each month. For Febuary, it will be collected at March 1st to keep the fairness of time use.
 
