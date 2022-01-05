@@ -19,7 +19,7 @@ All the main feature for this selfbot:
 	- Auto hunting base on the Pokémon name you given out (Ditto, Greninja-Ash, etc.). It is all in the database.
 
 **Ban risk is almost 0%**
-Unless you make use of the bot to spam in Myuu main server or other server, this bot is almost ban free because it works only in your private server.
+<br/>Unless you make use of the bot to spam in Myuu main server or other server, this bot is almost ban free because it works only in your private server.
 The bot doesn't interfere with Myuu system of any kind, just an auto-typing with AI intellectual.
 
 ## How to access to the bot
