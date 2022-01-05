@@ -28,8 +28,8 @@ You will need to provide your account TOKEN so please consider this before email
 I do not exchange in game currency for the usage of bot. Please notice this to avoid being scam.
 
 ## Feedback
-"I appreciate it so far it’s amazing"\n
-"You are a god of Myuu uwu"\n
-"10/10 greninja full stock hehe"\n
+"I appreciate it so far it’s amazing"<br/>
+"You are a god of Myuu uwu"<br/>
+"10/10 greninja full stock hehe"
 
 I personally thank you all for the feedback. It's beed a pleasure for helping you ease the grinding!
