@@ -20,12 +20,20 @@ All the main feature for this selfbot:
 
 ## How to access to the bot
 
-Bot is put behind a paywall of 5$ per month to limited the access of users to either not breaking the games and its economy and also for me to keep the server alive. The purpose of this bot is to help those who dedicated in the game but don't have much time to grind and hunting, training.
+1. Create a new Discord account
+2. Send your new created username and password acccount in step 1 to my email account: wandaandita2003@gmail.com. so I can added the account to the system.
+3. Wait for 10 minutes and enjoy the bot with full detail introduction and tutorial from me.
+4. After that if you feel safe. Feel free to add more account!
 
 For more detail, please contact me on email: wandaandita2003@gmail.com.
-**Note**: 
-You will need to provide your account TOKEN so please consider this before emailing me.
-I do not exchange in game currency for the usage of bot. Please notice this to avoid being scam.
+
+## Price
+The bot is put behind a paywall to prevent mass access from alot of player. This might lead to break the game ecosystem and also, I need income to keep the server up and running!
+
+**Price per account:** 5.5 USD/month
+**Mass accounts** (above 3 accounts at a time): 15$/month
+
+Fee is collected at 30th of each month. For Febuary, it will be collected at March 1st to keep the fairness of time use.
 
 ## Feedback
 "I appreciate it so far it’s amazing"<br/>
