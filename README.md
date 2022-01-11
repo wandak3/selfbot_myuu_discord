@@ -37,8 +37,8 @@ The bot is put behind a paywall to prevent mass access from alot of player. This
 **Price**  | **Description**
 ------------- | -------------
 5.5 USD/month  | Price per account.
-15$/month  | Mass accounts (3 accounts at a time).
-80$ | I will provide you the full source code with instruction on how to use the code.
+15 USD/month  | Mass accounts (3 accounts at a time).
+80 USD | I will provide you the full source code with instruction on how to use the code.
 
 Fee is collected at 30th of each month. For Febuary, it will be collected at March 1st to keep the fairness of time use.
 
