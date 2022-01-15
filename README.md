@@ -33,12 +33,7 @@ For more detail, please contact me on email: wandaandita2003@gmail.com.
 
 ## Price
 The bot is put behind a paywall to prevent mass access from alot of player. This might lead to break the game ecosystem and also, I need income to keep the server up and running!
-
-**Price**  | **Description**
-------------- | -------------
-5.5 USD/month  | Price per account.
-15 USD/month  | Mass accounts (3 accounts at a time).
-80 USD | I will provide you the full source code with instruction on how to use the code.
+<br/>Patreon page: https://www.patreon.com/myuuautogrind
 
 Fee is collected at 30th of each month. For Febuary, it will be collected at March 1st to keep the fairness of time use.
 
