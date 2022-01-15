@@ -36,8 +36,6 @@ The bot is put behind a paywall to prevent mass access from alot of player. This
 
 <br/>**Patreon page**: https://www.patreon.com/myuuautogrind
 
-Fee is collected at 30th of each month. For Febuary, it will be collected at March 1st to keep the fairness of time use.
-
 ## Feedback
 "I appreciate it so far it’s amazing"<br/>
 "You are a god of Myuu uwu"<br/>
