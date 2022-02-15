@@ -42,3 +42,21 @@ The bot is put behind a paywall to prevent mass access from alot of player. This
 "10/10 greninja full stock hehe"
 
 I personally thank you all for the feedback. It's beed a pleasure for helping you ease the grinding!
+
+## Changelog
+
+### [Version 1.1] - 2022-02-14
+
+### New Feature
+- Available to shiny hunt AND breeding at the same time. Use command `.breed {pokemon-that-will-hatch}`.
+- Log channel is available. Bot will automatically send shiny log to a defined channel.
+- Bot restart will not remove previous data. It will now save with settings before the restart. You will not need to setup. everything again.
+### Update Feature
+- Command `.status` will now send a more detail setup of the bot.
+- Command `.pb` to set prefer ball is more accurate.
+**Note:** only input the ball name, example: `.pb ultra, .pb poke`
+- Hunting now availble to do multiple hunting at a time. Add more hunt target by `.hunt {pokemon-name-1} {pokemon-name-2}`.
+### Removed Feature
+- `.mega` since not many user see it neccessary.
+- `.dance` since not many user see it neccessary.
+
