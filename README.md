@@ -36,13 +36,6 @@ The bot is put behind a paywall to prevent mass access from alot of player. This
 
 <br/>**Patreon page**: https://www.patreon.com/myuuautogrind
 
-## Feedback
-"I appreciate it so far it’s amazing"<br/>
-"You are a god of Myuu uwu"<br/>
-"10/10 greninja full stock hehe"
-
-I personally thank you all for the feedback. It's beed a pleasure for helping you ease the grinding!
-
 ## Changelog
 
 ### [Version 1.1] - 2022-02-14
