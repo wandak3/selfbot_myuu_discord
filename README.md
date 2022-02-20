@@ -34,7 +34,7 @@ The bot is put behind a paywall to prevent mass access from alot of player. This
 
 ## Changelog
 
-### [Version 1.1.1] - 2022-02-14
+### [Version 1.1.1] - 2022-02-17
 - Deity rare hunt log (including Ash-Greninja).
 
 ### [Version 1.1] - 2022-02-14
