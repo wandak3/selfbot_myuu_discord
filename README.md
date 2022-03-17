@@ -34,6 +34,9 @@ The bot is put behind a paywall to prevent mass access from alot of player. This
 
 ## Changelog
 
+### [Version 1.1.2] - 2022-03-17
+- Add timeout function to moderate runtime.
+
 ### [Version 1.1.1] - 2022-02-17
 - Deity rare hunt log (including Ash-Greninja).
 
