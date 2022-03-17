@@ -1,6 +1,6 @@
 # Myuu Autogrind
 
-**Myuu Autogrind** is a self Discord-bot, meaning it will use your Discord TOKEN to logged into your account and play the commands as if you are playing yourself
+**Myuu Autogrind** is a self Discord-bot, meaning it will use your Discord TOKEN to logged into your account and play the commands as if you are playing yourself.
 <br/>
 
 <p align="center">
