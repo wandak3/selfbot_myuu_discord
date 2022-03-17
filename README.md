@@ -9,23 +9,17 @@
 
 ## Main Feature
 All the main feature for this selfbot:
-- Auto leveling grinding **without** take over your keyboards. 
-- Auto catch shinies while leveling
-- You don't have to sit and watch the screen for a long time, it automatically catch them for you.
-- Auto EV training
-- Auto hunting
-- Auto Breeding and swap them into box when egg hatch (**New**)
-
+- Playing Myuu for you (auto route, auto breed, and more..)
+- Connection Free: you can still run the bot without having to touch your phone. Setup - run and do what you want in real life, then comeback and check your box 
+for the result
 **Ban risk is almost 0%**
 <br/>Unless you make use of the bot to spam in Myuu main server or other server, this bot is almost ban free because it works only in your private server.
 
 ## How to access to the bot
 
-1. Create a new Discord account
+1. Create a new Discord account (recommended)
 2. Send your new created username and password acccount in step 1 to my email account: wandaandita2003@gmail.com. so I can added the account to the system.
-3. I will contact you again for a full tutorial of the bot with 10 minutes of trying it for free.
-
-For more detail, please contact me on email: wandaandita2003@gmail.com.
+3. I will contact you again for a full tutorial of the bot with **10 minutes of trying it for free.**
 
 ## Price
 The bot is put behind a paywall to prevent mass access from alot of player. This might lead to break the game ecosystem and also, I need income to keep the server up and running!
