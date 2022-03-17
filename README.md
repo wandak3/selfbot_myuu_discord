@@ -11,7 +11,7 @@
 ## Main Feature
 All the main feature for this selfbot:
 - **Playing Myuu for you** (auto route, auto breed, and more..)
-- **Connection Free**: you can still run the bot without having to touch your phone. Setup - run and do what you want in real life, then comeback and check your box 
+- **Connection Free**: you can still run the bot without having to touch your phone or internet connection. Setup - run and do what you want in real life, then comeback and check your box 
 for the result
 - **Ban risk is almost 0%**: Unless you make use of the bot to spam in Myuu main server or other server, this bot is almost ban free because it works only in your private server.
 
