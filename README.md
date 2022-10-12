@@ -1,14 +1,31 @@
+
 # Myuu Autogrind
 
 **Myuu Autogrind** is a self Discord-bot, meaning it will use your Discord TOKEN to logged into your account and play the commands as if you are playing yourself.
+
+<u>**Disclaimer**:</u> Self-bot is against TOS of Discord. I will not take responsible if your bot get banned by Discord. Use the bot at your own risk!
+
+<u>**Update 12/10/2022**:</u>
+1. Due to large number of user using autogrind, to prevent the outrageously number of shinies on the Myuu market, I no longer take new account for auto shiny catcher. 
+2. The only bot still runs is **auto breeding (NEW)**. More detail, please check below.
+3. I will now take order from discord account: <b>andita#5182</b>
 <br/>
 
 <p align="center">
 <img src="https://media.giphy.com/media/aPJ4nQQcHuxUphpfqf/giphy.gif"/>
 </p>
 
+## Breeding Bot [NEW]
 
-## Main Feature
+- **Breeding shinies for you**: the bot will grab the egg for you, and swap the hatched one into your box automatically!
+- **24/7**: bot will always be available to pick up the egg. You can have a night out, get some sleep. Wake up with a box full of Poké babies.
+- **Ban risk is 0%**: the bot is tested by myself and my alt for 5 months now, no ban, even from Discord. This is the safest self-bot there is because:
+	- No spam.
+	- No flooded your DM.
+	- Only runs when the egg comes.
+##### Price for this bot is 5$/month now. More detail can be seen below. Payment through <a href="paypal.me/wandaandita2003">Paypal</a>
+
+## Main Feature [Stop taking orders]
 All the main feature for this selfbot:
 - **Playing Myuu for you** (auto route, auto breed, and more..)
 - **Connection Free**: you can still run the bot without having to touch your phone or internet connection. Setup - run and do what you want in real life, then comeback and check your box 
@@ -18,13 +35,8 @@ for the result
 ## How to access to the bot
 
 1. Create a new Discord account (recommended)
-2. Send your new created username and password acccount in step 1 to my email account: wandaandita2003@gmail.com. so I can added the account to the system.
+2. Send your new created username and password acccount in step 1 to my Discord account: **andita#5182** so I can added the account to the system.
 3. I will contact you again for a full tutorial of the bot with **10 minutes of trying it for free.**
-
-## Price
-The bot is put behind a paywall to prevent mass access from alot of player. This might lead to break the game ecosystem and also, I need income to keep the server up and running!
-
-<br/>**Patreon page**: https://www.patreon.com/myuuautogrind
 
 ## Changelog
 
@@ -33,12 +45,3 @@ The bot is put behind a paywall to prevent mass access from alot of player. This
 
 ### [Version 1.1.1] - 2022-02-17
 - Deity rare hunt log (including Ash-Greninja).
-
-### [Version 1.1] - 2022-02-14
-- Available to shiny hunt AND breeding at the same time. Use command `.breed {pokemon-that-will-hatch}`.
-- Log channel is available. Bot will automatically send shiny log to a defined channel.
-- Bot restart will not remove previous data. It will now save with settings before the restart. You will not need to setup. everything again.
-- Command `.status` will now send a more detail setup of the bot.
-- Command `.pb` to set prefer ball is more accurate.
-**Note:** only input the ball name, example: `.pb ultra, .pb poke`
-- Hunting now availble to do multiple hunting at a time. Add more hunt target by `.hunt {pokemon-name-1} {pokemon-name-2}`.
