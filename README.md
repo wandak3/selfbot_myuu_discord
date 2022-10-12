@@ -23,7 +23,7 @@
 	- No spam.
 	- No flooded your DM.
 	- Only runs when the egg comes.
-##### Price for this bot is 5$/month now. More detail can be seen below. Payment through [Paypal](paypal.me/wandaandita2003)
+##### Price for this bot is 5$/month now. More detail can be seen below. Payment through <a>paypal.me/wandaandita2003</a>
 
 ## Main Feature [Stop taking orders]
 All the main feature for this selfbot:
