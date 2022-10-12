@@ -5,7 +5,7 @@
 
 <u>**Disclaimer**:</u> Self-bot is against TOS of Discord. I will not take responsible if your bot get banned by Discord. Use the bot at your own risk!
 
-<u>**Update 12/10/2022**:</u>
+<u>**Update 12.10.2022**:</u>
 1. Due to large number of user using autogrind, to prevent the outrageously number of shinies on the Myuu market, I no longer take new account for auto shiny catcher. 
 2. The only bot still runs is **auto breeding (NEW)**. More detail, please check below.
 3. I will now take order from discord account: <b>andita#5182</b>
