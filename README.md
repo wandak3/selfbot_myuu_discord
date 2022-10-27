@@ -3,10 +3,11 @@
 
 **Myuu Autogrind** is a self Discord-bot, meaning it will use your Discord TOKEN to logged into your account and play the commands as if you are playing yourself.
 
-## **UPDATE:** Slash-command can now be use
+## **UPDATE:**
 
 <u>**Disclaimer**:</u> Self-bot is against TOS of Discord. I will not take responsible if your bot get banned by Discord. Use the bot at your own risk!
-
+<u>**Update 2022-10-27**:</u>
+1. Implement slash-
 <u>**Update 2022-10-12**:</u>
 1. Due to large number of user using autogrind, to prevent the outrageously number of shinies on the Myuu market, I no longer take new account for auto shiny catcher. 
 2. The only bot still runs is **auto breeding (NEW)**. More detail, please check below.
