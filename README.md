@@ -1,5 +1,6 @@
 
 
+
 # Myuu Autogrind
 
 **Myuu Autogrind** is a self Discord-bot, meaning it will use your Discord TOKEN to logged into your account and play the commands as if you are playing yourself.
@@ -7,7 +8,9 @@
 <u>**Disclaimer**:</u> Self-bot is against TOS of Discord. I will not take responsible if your bot get banned by Discord. Use the bot at your own risk!
 I highly recommend to create another account to use the bot.
 
-## **UPDATE:**
+## **UPDATE**
+Shiny hunting bot is currently out of orders (too many users running it)
+
 <u>**Update 2022-10-27**:</u>
 1. Implement slash-commands.
 2. Implement remote control feature. Meaning you can now use command on your main account to control your alternative account with your prefix of choice.
@@ -38,7 +41,7 @@ I highly recommend to create another account to use the bot.
 	- No spam.
 	- No flooded your DM.
 	- Only runs when the egg comes.
-##### Price for this bot is 5$/month now. Payment through Paypal.
+##### Price for this bot is 3$/month now. Hosting at [Sparked Host](https://sparkedhost.com). Payment through Paypal.
 
 ### Main Feature [Stop taking orders]
 All the main feature for this selfbot:
