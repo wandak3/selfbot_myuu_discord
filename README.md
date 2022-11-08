@@ -16,6 +16,7 @@ Shiny hunting bot is currently out of orders (too many users running it)
 2. Implement remote control feature. Meaning you can now use command on your main account to control your alternative account with your prefix of choice.
 
 <u>**Update 2022-10-12**:</u>
+
 3. Due to large number of user using autogrind, to prevent the outrageously number of shinies on the Myuu market, I no longer take new account for auto shiny catcher. 
 4. The only bot still runs is **auto breeding (NEW)**. More detail, please check below.
 5. I will now take order from discord account: <b>andita#5182</b>
