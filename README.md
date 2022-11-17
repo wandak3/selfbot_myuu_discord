@@ -9,7 +9,7 @@
 I highly recommend to create another account to use the bot.
 
 ## **UPDATE**
-Shiny hunting bot is currently out of orders (too many users running it)
+Shiny hunting bot is back for sale now! Price is 7$/month. Pay through paypal.
 
 <u>**Update 2022-10-27**:</u>
 1. Implement slash-commands.
@@ -17,9 +17,9 @@ Shiny hunting bot is currently out of orders (too many users running it)
 
 <u>**Update 2022-10-12**:</u>
 
-3. Due to large number of user using autogrind, to prevent the outrageously number of shinies on the Myuu market, I no longer take new account for auto shiny catcher. 
-4. The only bot still runs is **auto breeding (NEW)**. More detail, please check below.
-5. I will now take order from discord account: <b>andita#5182</b>
+1. Due to large number of user using autogrind, to prevent the outrageously number of shinies on the Myuu market, I no longer take new account for auto shiny catcher. 
+2. The only bot still runs is **auto breeding (NEW)**. More detail, please check below.
+3. I will now take order from discord account: <b>andita#5182</b>
 <br/>
 
 <p align="center">
@@ -28,7 +28,7 @@ Shiny hunting bot is currently out of orders (too many users running it)
 
 ## How to access to the bot
 
-1. Create a new Discord account (recommended)
+1. Create a brand new Discord account (recommended).
 2. Send your new created username and password acccount in step 1 to my Discord account: **andita#5182** so I can added the account to the system.
 3. I will contact you again for a full tutorial of the bot with **10 minutes of trying it for free.**
 
@@ -44,7 +44,7 @@ Shiny hunting bot is currently out of orders (too many users running it)
 	- Only runs when the egg comes.
 ##### Price for this bot is 3$/month now. Hosting at [Sparked Host](https://sparkedhost.com). Payment through Paypal.
 
-### Main Feature [Stop taking orders]
+### Main Feature
 All the main feature for this selfbot:
 - **Playing Myuu for you** (auto route, auto breed, and more..)
 - **Connection Free**: you can still run the bot without having to touch your phone or internet connection. Setup - run and do what you want in real life, then comeback and check your box 
