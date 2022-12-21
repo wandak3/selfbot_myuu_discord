@@ -5,7 +5,7 @@
 # RocketM (Myuu Autogrind)
 ### Fully support Generation 7
 
-**Rocket** is a selfbot used to automatically help playing Myuu, meaning it will use your Discord TOKEN to logged into your account and play the commands as if you are playing yourself.
+**Rocket** is a selfbot used to automatically help playing Myuu, meaning it will use your Discord TOKEN to logged into your account and play the commands as if you are playing yourself. Plus, for those who hates using slash command. This bot is fully support Legacy commands for Myuu playthrough!
 
 <u>**Disclaimer**:</u> Self-bot is against TOS of Discord. I will not take responsible if your bot get banned by Discord. Use the bot at your own risk!
 I highly recommend to create another account to use the bot.
