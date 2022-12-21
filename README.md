@@ -36,18 +36,4 @@ All the main feature for this Shiny hunting selfbot:
 - **Playing Myuu for you** (auto route, auto grab egg, boxswap when egg hatched and more..).
 - **Connection Free**: you can still run the bot without having to touch your phone or internet connection. Setup - run and do what you want in real life, then comeback and check your box for the result
 - **Ban risk is almost 0%**: Unless you make use of the bot to spam in Myuu main server or other server, this bot is almost ban free because it works only in your private server.
-##### Price for this bot is 7$/month (4$ for hosting). Hosting at [Sparked Host](https://sparkedhost.com). Payment through Paypal.
-
-## Changelog
-### [Version 1.1.5] - 2022-11-21
-- Implement legacy command to control the bot
-- Bug fix.
-### [Version 1.1.3] - 2022-10-27
-- Implement slash-commands.
-- Implement remote-control feature.
-- Bug fix.
-### [Version 1.1.2] - 2022-03-17
-- Add timeout function to moderate runtime.
-
-### [Version 1.1.1] - 2022-02-17
-- Deity rare hunt log (including Ash-Greninja).
+##### Price for this bot is 5$/month (4$ for hosting). Hosting at [Sparked Host](https://sparkedhost.com). Payment through Paypal.
