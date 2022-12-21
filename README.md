@@ -29,11 +29,11 @@ I highly recommend to create another account to use the bot.
 	- No spam.
 	- No flooded your DM.
 	- Only runs when the egg comes.
-##### Price for this bot is 3$/month (2$ for hosting). Hosting at [Sparked Host](https://sparkedhost.com). Payment through Paypal.
+##### Price for this bot is 3$/month (2$ are used for hosting). Hosting at [Sparked Host](https://sparkedhost.com). Payment through Paypal.
 
 ### Shiny Hunting Bot
 All the main feature for this Shiny hunting selfbot:
 - **Playing Myuu for you** (auto route, auto grab egg, boxswap when egg hatched and more..).
 - **Connection Free**: you can still run the bot without having to touch your phone or internet connection. Setup - run and do what you want in real life, then comeback and check your box for the result
 - **Ban risk is almost 0%**: Unless you make use of the bot to spam in Myuu main server or other server, this bot is almost ban free because it works only in your private server.
-##### Price for this bot is 5$/month (4$ for hosting). Hosting at [Sparked Host](https://sparkedhost.com). Payment through Paypal.
+##### Price for this bot is 5$/month (3$ are used for hosting). Hosting at [Sparked Host](https://sparkedhost.com). Payment through Paypal.
