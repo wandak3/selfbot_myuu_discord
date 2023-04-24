@@ -29,7 +29,7 @@ I highly recommend to create another account to use the bot.
 	- No spam.
 	- No flooded your DM.
 	- Only runs when the egg comes.
-##### Price for this bot is 3$/month (2$ are used for hosting). Hosting at [Sparked Host](https://sparkedhost.com). Payment through Paypal.
+##### Price for this bot is 2$/month. Payment through Paypal.
 
 ### Shiny Hunting Bot
 All the main feature for this Shiny hunting selfbot:
